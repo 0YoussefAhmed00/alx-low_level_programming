@@ -6,7 +6,7 @@ if (n > 0)
 {
 _putchar ('+');
 _putchar (',');
-_putcahr ('');
+_putcahr (' ');
 return (1);
 }
 else if (n == 0)
