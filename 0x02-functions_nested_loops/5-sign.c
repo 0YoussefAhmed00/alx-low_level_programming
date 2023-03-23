@@ -1,5 +1,5 @@
 #include "main.h"
-i
+
 /**
  * print_sign - function that prints signs
  *
