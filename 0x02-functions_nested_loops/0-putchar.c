@@ -1,5 +1,9 @@
-#!/bin/bash
-#include <stdio.h>
+#include <main.h>
+/**
+ * main - Entry point
+ * Description: 'Prints _putchar to stdout'
+ * Return: always 0
+ */
 int main(void)
 {   putchar('_');
     putchar('p');
